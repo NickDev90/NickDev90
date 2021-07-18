@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Welcome to my website 
+#### Welcome to my code. I'm learning React.JS now
 
 <!--
 **NickDev90/NickDev90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
