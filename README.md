@@ -1,4 +1,13 @@
-Building web applications with React and Next.js — focused on performance, maintainability, and user experience.
+# Hi, I'm Nick 👋
+
+React Engineer building modern web applications with React, Next.js, and TypeScript.
+
+Focused on scalable frontend architecture, performance, and clean UX.
+
+Currently working on a React Native gym tracking app with AI-powered features.
+
+
+
 <!--
 **NickDev90/NickDev90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
